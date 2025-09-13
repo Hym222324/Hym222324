@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+### - 🔭 I’m currently working on DXC as SME in Automotive industry
+### - 🌱 I’m currently learning Github
+### - 👯 I’m looking to collaborate on AI enabled SaaS application for supply chain solution
+### - 🤔 I’m looking for help with coding expert
+### - 📫 How to reach me: hushiyang@gmail.com
 <!--
 **Hym222324/Hym222324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
